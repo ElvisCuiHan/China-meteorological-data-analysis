@@ -1,5 +1,7 @@
 # Object file
 *.o
-
+#*.csv
+*.xlsx
+*.xls
 # Ada Library Information
 *.ali
